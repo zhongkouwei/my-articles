@@ -8,10 +8,11 @@
 
 - ~~java中成员变量的隐藏~~
 - java中的String
-- switch对String类型的实现
+- ~~switch对String类型的实现~~
 - fail-fast机制(为什么增强for循环不能remove)
 - HashMap的初始容量
 - 逃逸分析
 - 事务的实现
 - 编译时多态和运行时多态
-- 内部类的一些操作
+- 内部类的一些操作(例如RequestOptions)
+- setConnectionRequestTimeout
