@@ -12,7 +12,8 @@
 - fail-fast机制(为什么增强for循环不能remove)
 - HashMap的初始容量
 - 逃逸分析
-- 事务的实现
+- ~~事务的实现~~
 - 编译时多态和运行时多态
 - 内部类的一些操作(例如RequestOptions)
-- setConnectionRequestTimeout
+- setConnectionRequestTimeou(进行中)
+- 接口和抽象类的选择
