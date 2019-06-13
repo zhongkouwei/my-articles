@@ -1,6 +1,6 @@
-# @Transactional 事务分析
+# @Transactional Spring事务源码分析
 
-
+[TOC]
 
 在Spring开发中，经常会用到这个注解，但它是怎么起到开启事务的作用的，还一知半解，只知道应该是基于AOP的，今天就来分析一波它的用法和具体实现。
 
