@@ -9,11 +9,13 @@
 - ~~java中成员变量的隐藏~~
 - java中的String
 - ~~switch对String类型的实现~~
-- fail-fast机制(为什么增强for循环不能remove)
+- ~~fail-fast机制(为什么增强for循环不能remove)~~
 - HashMap的初始容量
 - 逃逸分析
 - ~~事务的实现~~
 - 编译时多态和运行时多态
 - 内部类的一些操作(例如RequestOptions)
-- setConnectionRequestTimeou(进行中)
+- setConnectionRequestTimeout(进行中)
 - 接口和抽象类的选择
+- 同步异步阻塞非阻塞
+- 异步处理请求(请求处理线程和工作线程分开)
