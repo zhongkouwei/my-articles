@@ -21,3 +21,9 @@
 - 异步处理请求(请求处理线程和工作线程分开)
 - ~~java里的语法糖~~
 - ~~Dockerfile-maven-plugin~~
+- ServletRequestHandledEvent监听（在servlet异步线程处理时的情况）
+- Varchar 设置长度的意义？1、索引长度限制 2、临时表、客户端分配内存时会根据字段长度分配 3、约束长度，防止未来字段扩张
+- springCloud
+  - 最佳实践
+- 服务端监控
+  - Nginx
