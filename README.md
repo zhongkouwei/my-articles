@@ -26,4 +26,5 @@
 - springCloud
   - 最佳实践
 - 服务端监控
-  - Nginx
+  - ~~Nginx~~
+  - Java
