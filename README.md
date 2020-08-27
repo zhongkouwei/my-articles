@@ -27,8 +27,11 @@
   - 最佳实践
 - 服务端监控
   - ~~Nginx~~
-    - nginx-lua
-    - Nginx-module-vts
-  - Java
+    - ~~nginx-lua~~
+    - ~~Nginx-module-vts~~
+  - ~~Java~~
     - ~~Actuator介绍~~
-    - Actuator和grafana结合
+    - ~~Actuator和grafana结合~~
+- 双括号表达式理解和使用（坑）：https://blog.csdn.net/xukun5137/article/details/78275201?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
+- ~~es 超时、返回值过大问题解决（舆情系统问题解决）~~
+- hadoop spark使用入门
